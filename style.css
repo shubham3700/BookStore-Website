@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+#top {
+    width: 100%;
+    height: 140px;
+    border: none;
+}
+
+#container {
+    display: flex;
+    height: calc(100vh - 140px);
+}
+#left {
+    width: 20%;
+    border: none;
+    background-color: #f3d9c2;
+}
+#main {
+    flex: 1;
+    border: none;
+}

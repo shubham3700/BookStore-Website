@@ -1,0 +1,17 @@
+    h1{color: green;
+        background-color: rgb(226, 230, 26);
+    }
+    h3{
+        color: white;
+    }
+body{
+    background-color: #76b852;
+    text-align: center;
+}
+a{
+    padding: 30px;
+    font-size: 20px;
+    text-decoration: underline;
+    color: black;
+    font-weight: bold;
+}
